@@ -4,10 +4,6 @@ icon: fas fa-info-circle
 order: 4
 ---
 
----
-# About Me
-
-
 Hello — I’m Hem Bahadur Jora, a BIM student from Dhangadhi, Nepal, passionate about building clean, functional, and responsive web applications. I enjoy turning ideas into real projects, learning new technologies, and improving my skills through hands-on work.
 
 I have experience in both front-end and back-end development, and I love exploring tools that make development faster and more enjoyable. I’m constantly working on new projects that help me grow as a developer and understand how real systems are built.
